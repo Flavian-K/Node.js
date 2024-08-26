@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "nodejsgmc",
+  "version": "1.0.0",
+  "description": "my first Node.jd application",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Flavian K",
+  "license": "MIT"
+}
